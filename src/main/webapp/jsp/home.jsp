@@ -102,7 +102,7 @@ $(function() {
 						
 							<!-- Left navbar -->
 							<ul class="nav navbar-nav">
-								<li class="active">
+								<li>
 									<a href="#fakelink">
 										<i class="fa fa-cog"></i> &nbsp;&nbsp;Services
 									</a>
